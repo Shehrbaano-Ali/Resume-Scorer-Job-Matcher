@@ -1,0 +1,7 @@
+name,job_title,experience_years,skills,education
+Ali Khan,Data Scientist,2,"Python; Pandas; Machine Learning; SQL","BS Computer Science"
+Sara Malik,ML Engineer,3,"Python; TensorFlow; Keras; Deep Learning","MS AI"
+Ahmed Raza,Data Analyst,1,"Excel; SQL; Data Visualization","BS Statistics"
+Zoya Tariq,Software Engineer,4,"Java; Spring Boot; Microservices","BS Software Engineering"
+Hassan Noor,NLP Researcher,2,"NLP; Transformers; HuggingFace; PyTorch","MS Data Science"
+Fatima Iqbal,Backend Developer,5,"Node.js; Express; MongoDB; REST APIs","BS Computer Engineering"
